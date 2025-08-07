@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Meghan/static/css/main.e6c13ad2.css",
+    "main.js": "/Meghan/static/js/main.631ac998.js",
+    "static/js/453.2ba41add.chunk.js": "/Meghan/static/js/453.2ba41add.chunk.js",
+    "index.html": "/Meghan/index.html",
+    "main.e6c13ad2.css.map": "/Meghan/static/css/main.e6c13ad2.css.map",
+    "main.631ac998.js.map": "/Meghan/static/js/main.631ac998.js.map",
+    "453.2ba41add.chunk.js.map": "/Meghan/static/js/453.2ba41add.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.631ac998.js"
+  ]
+}
